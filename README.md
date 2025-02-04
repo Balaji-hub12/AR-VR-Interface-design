@@ -14,7 +14,7 @@
 
 **DESCRIPTION OF TASK PERFORMED:** 
 
-***TASK: 3 AR/VR INTERFACE DESIGN FOR AN APPLICATION***
+***TASK: 4 AR/VR INTERFACE DESIGN FOR AN APPLICATION***
 
 **1. Introduction**
 This task involves designing a futuristic AR/VR gaming interface that enhances the user experience in a virtual reality environment. The goal is to create an immersive, user-friendly dashboard that enables seamless interaction with game libraries, updates, and recommendations.
